@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    background-color: skyblue;
+    color: black;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 5px;
+    text-align: left;
+}
