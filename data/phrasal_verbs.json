@@ -1,0 +1,655 @@
+[
+    {
+        "id": 1,
+        "word": "give up",
+        "translations": [
+            "poddać się",
+            "rzucić (nałóg)"
+        ],
+        "examples": [
+            "I will not give up.",
+            "I gave up smoking last year."
+        ]
+    },
+    {
+        "id": 2,
+        "word": "pick up",
+        "translations": [
+            "podnieść",
+            "odebrać",
+            "nauczyć się (nieformalnie)"
+        ],
+        "examples": [
+            "She picked up some Spanish while traveling."
+        ]
+    },
+    {
+        "id": 3,
+        "word": "look after",
+        "translations": [
+            "opiekować się",
+            "dbać o"
+        ],
+        "examples": [
+            "He did not look after his uncle."
+        ]
+    },
+    {
+        "id": 4,
+        "word": "find out",
+        "translations": [
+            "dowiedzieć się",
+            "odkryć"
+        ],
+        "examples": [
+            "He has found out some secrets."
+        ]
+    },
+    {
+        "id": 5,
+        "word": "turn on",
+        "translations": [
+            "włączyć"
+        ],
+        "examples": [
+            "Please turn on the lights."
+        ]
+    },
+    {
+        "id": 6,
+        "word": "turn off",
+        "translations": [
+            "wyłączyć"
+        ],
+        "examples": [
+            "Don't forget to turn off the TV."
+        ]
+    },
+    {
+        "id": 7,
+        "word": "get up",
+        "translations": [
+            "wstać"
+        ],
+        "examples": [
+            "I got up at 7 AM."
+        ]
+    },
+    {
+        "id": 8,
+        "word": "sit down",
+        "translations": [
+            "usiąść"
+        ],
+        "examples": [
+            "Please, sit down."
+        ]
+    },
+    {
+        "id": 9,
+        "word": "come back",
+        "translations": [
+            "wrócić"
+        ],
+        "examples": [
+            "Come back soon."
+        ]
+    },
+    {
+        "id": 10,
+        "word": "go out",
+        "translations": [
+            "wyjść"
+        ],
+        "examples": [
+            "They went out to a restaurant for lunch."
+        ]
+    },
+    {
+        "id": 11,
+        "word": "put on",
+        "translations": [
+            "założyć (ubranie)",
+            "przytyć"
+        ],
+        "examples": [
+            "She put on a new jacket.",
+            "He put on 20 kilograms."
+        ]
+    },
+    {
+        "id": 12,
+        "word": "take off",
+        "translations": [
+            "wystartować (o samolocie)",
+            "zdjąć"
+        ],
+        "examples": [
+            "The plane took off on time.",
+            "Please take off your shoes."
+        ]
+    },
+    {
+        "id": 13,
+        "word": "run into",
+        "translations": [
+            "natknąć się na",
+            "spotkać przypadkiem"
+        ],
+        "examples": [
+            "I ran into a teacher from high school."
+        ]
+    },
+    {
+        "id": 14,
+        "word": "bring up",
+        "translations": [
+            "wspomnieć",
+            "poruszyć temat"
+        ],
+        "examples": [
+            "She brought up an interesting question."
+        ]
+    },
+    {
+        "id": 15,
+        "word": "carry on",
+        "translations": [
+            "kontynuować"
+        ],
+        "examples": [
+            "Please carry on with your work."
+        ]
+    },
+    {
+        "id": 16,
+        "word": "work out",
+        "translations": [
+            "ćwiczyć",
+            "znaleźć rozwiązanie"
+        ],
+        "examples": [
+            "I work out three times a week.",
+            "We'll work out a solution."
+        ]
+    },
+    {
+        "id": 17,
+        "word": "set up",
+        "translations": [
+            "założyć",
+            "zorganizować",
+            "ustanowić"
+        ],
+        "examples": [
+            "They set up a new company."
+        ]
+    },
+    {
+        "id": 18,
+        "word": "break down",
+        "translations": [
+            "zepsuć się"
+        ],
+        "examples": [
+            "My car broke down yesterday."
+        ]
+    },
+    {
+        "id": 19,
+        "word": "call off",
+        "translations": [
+            "odwołać"
+        ],
+        "examples": [
+            "They called off the meeting."
+        ]
+    },
+    {
+        "id": 20,
+        "word": "fill in",
+        "translations": [
+            "wypełnić"
+        ],
+        "examples": [
+            "Please fill in the application form."
+        ]
+    },
+    {
+        "id": 21,
+        "word": "check out",
+        "translations": [
+            "sprawdzić",
+            "obejrzeć",
+            "wymeldować się"
+        ],
+        "examples": [
+            "Check out this new website.",
+            "We checked out of the hotel at noon."
+        ]
+    },
+    {
+        "id": 22,
+        "word": "get along",
+        "translations": [
+            "dogadywać się"
+        ],
+        "examples": [
+            "I get along well with my coworkers."
+        ]
+    },
+    {
+        "id": 23,
+        "word": "look for",
+        "translations": [
+            "szukać"
+        ],
+        "examples": [
+            "I'm looking for my keys."
+        ]
+    },
+    {
+        "id": 24,
+        "word": "wake up",
+        "translations": [
+            "obudzić się",
+            "obudzić kogoś"
+        ],
+        "examples": [
+            "I usually wake up at 6 AM."
+        ]
+    },
+    {
+        "id": 25,
+        "word": "show up",
+        "translations": [
+            "pojawić się"
+        ],
+        "examples": [
+            "He didn't show up for the meeting."
+        ]
+    },
+    {
+        "id": 26,
+        "word": "ask out",
+        "translations": [
+            "zaprosić na randkę"
+        ],
+        "examples": [
+            "He asked her out for dinner."
+        ]
+    },
+    {
+        "id": 27,
+        "word": "back up",
+        "translations": [
+            "tworzyć kopię zapasową",
+            "wesprzeć",
+            "cofnąć (np. samochód)"
+        ],
+        "examples": [
+            "Remember to back up your files."
+        ]
+    },
+    {
+        "id": 28,
+        "word": "blow up",
+        "translations": [
+            "wybuchnąć",
+            "wysadzić",
+            "powiększyć (zdjęcie)"
+        ],
+        "examples": [
+            "The bomb blew up."
+        ]
+    },
+    {
+        "id": 29,
+        "word": "break up",
+        "translations": [
+            "rozstać się",
+            "rozpaść się",
+            "zakończyć (związek)"
+        ],
+        "examples": [
+            "They broke up last month."
+        ]
+    },
+    {
+        "id": 30,
+        "word": "calm down",
+        "translations": [
+            "uspokoić się",
+            "uspokoić kogoś"
+        ],
+        "examples": [
+            "Please calm down."
+        ]
+    },
+    {
+        "id": 31,
+        "word": "catch up",
+        "translations": [
+            "nadrobić",
+            "dogonić"
+        ],
+        "examples": [
+            "I need to catch up on my homework."
+        ]
+    },
+    {
+        "id": 32,
+        "word": "cut down on",
+        "translations": [
+            "ograniczyć"
+        ],
+        "examples": [
+            "I'm trying to cut down on sugar."
+        ]
+    },
+    {
+        "id": 33,
+        "word": "drop off",
+        "translations": [
+            "podwieźć",
+            "zostawić",
+            "zasnąć"
+        ],
+        "examples": [
+            "I'll drop you off at the station."
+        ]
+    },
+    {
+        "id": 34,
+        "word": "end up",
+        "translations": [
+            "skończyć",
+            "ostatecznie znaleźć się"
+        ],
+        "examples": [
+            "We ended up staying at home."
+        ]
+    },
+    {
+        "id": 35,
+        "word": "figure out",
+        "translations": [
+            "zrozumieć",
+            "rozwiązać",
+            "wymyślić"
+        ],
+        "examples": [
+            "I can't figure out this problem."
+        ]
+    },
+    {
+        "id": 36,
+        "word": "get over",
+        "translations": [
+            "otrząsnąć się po",
+            "dojść do siebie po",
+            "przezwyciężyć"
+        ],
+        "examples": [
+            "It took her months to get over the accident."
+        ]
+    },
+    {
+        "id": 37,
+        "word": "go over",
+        "translations": [
+            "przejrzeć",
+            "omówić"
+        ],
+        "examples": [
+            "Let's go over the report."
+        ]
+    },
+    {
+        "id": 38,
+        "word": "hang out",
+        "translations": [
+            "spędzać czas",
+            "spotykać się"
+        ],
+        "examples": [
+            "We often hang out after work."
+        ]
+    },
+    {
+        "id": 39,
+        "word": "hold on",
+        "translations": [
+            "czekać chwilę",
+            "trzymać się"
+        ],
+        "examples": [
+            "Hold on a second."
+        ]
+    },
+    {
+        "id": 40,
+        "word": "keep up with",
+        "translations": [
+            "nadążać za",
+            "być na bieżąco z"
+        ],
+        "examples": [
+            "It's hard to keep up with technology."
+        ]
+    },
+    {
+        "id": 41,
+        "word": "leave out",
+        "translations": [
+            "pominąć",
+            "opuścić"
+        ],
+        "examples": [
+            "Don't leave out any important details."
+        ]
+    },
+    {
+        "id": 42,
+        "word": "look up",
+        "translations": [
+            "wyszukać",
+            "sprawdzić (np. w słowniku)"
+        ],
+        "examples": [
+            "I looked up the word in the dictionary."
+        ]
+    },
+    {
+        "id": 43,
+        "word": "pass away",
+        "translations": [
+            "umrzeć",
+            "odejść"
+        ],
+        "examples": [
+            "His grandfather passed away last year."
+        ]
+    },
+    {
+        "id": 44,
+        "word": "put away",
+        "translations": [
+            "odłożyć na miejsce",
+            "schować"
+        ],
+        "examples": [
+            "Please put away your clothes."
+        ]
+    },
+    {
+        "id": 45,
+        "word": "take over",
+        "translations": [
+            "przejąć kontrolę",
+            "przejąć obowiązki"
+        ],
+        "examples": [
+            "She took over the project."
+        ]
+    },
+    {
+        "id": 46,
+        "word": "throw away",
+        "translations": [
+            "wyrzucić"
+        ],
+        "examples": [
+            "Don't throw away these papers."
+        ]
+    },
+    {
+        "id": 47,
+        "word": "try on",
+        "translations": [
+            "przymierzyć (ubranie)"
+        ],
+        "examples": [
+            "I'd like to try on these shoes."
+        ]
+    },
+    {
+        "id": 48,
+        "word": "watch out",
+        "translations": [
+            "uważaj",
+            "ostrożnie"
+        ],
+        "examples": [
+            "Watch out! There's a car coming."
+        ]
+    },
+    {
+        "id": 49,
+        "word": "write down",
+        "translations": [
+            "zapisać",
+            "zanotować"
+        ],
+        "examples": [
+            "Write down your phone number."
+        ]
+    },
+    {
+        "id": 50,
+        "word": "bring about",
+        "translations": [
+            "spowodować",
+            "doprowadzić do"
+        ],
+        "examples": [
+            "The new law brought about many changes."
+        ]
+    },
+    {
+        "id": 51,
+        "word": "come across",
+        "translations": [
+            "natknąć się",
+            "natrafić na"
+        ],
+        "examples": [
+            "I came across an interesting article."
+        ]
+    },
+    {
+        "id": 52,
+        "word": "come up with",
+        "translations": [
+            "wymyślić",
+            "wpaść na pomysł"
+        ],
+        "examples": [
+            "She came up with a great idea."
+        ]
+    },
+    {
+        "id": 53,
+        "word": "cut off",
+        "translations": [
+            "odciąć",
+            "przerwać",
+            "rozłączyć"
+        ],
+        "examples": [
+            "They cut off the electricity."
+        ]
+    },
+    {
+        "id": 54,
+        "word": "get away with",
+        "translations": [
+            "ujść na sucho",
+            "uniknąć kary za coś"
+        ],
+        "examples": [
+            "He got away with cheating."
+        ]
+    },
+    {
+        "id": 55,
+        "word": "hand in",
+        "translations": [
+            "oddać",
+            "złożyć (pracę, dokument)"
+        ],
+        "examples": [
+            "Please hand in your homework tomorrow."
+        ]
+    },
+    {
+        "id": 56,
+        "word": "point out",
+        "translations": [
+            "wskazać",
+            "zwrócić uwagę na"
+        ],
+        "examples": [
+            "She pointed out my mistake."
+        ]
+    },
+    {
+        "id": 57,
+        "word": "sort out",
+        "translations": [
+            "rozwiązać",
+            "uporządkować",
+            "ogarnąć"
+        ],
+        "examples": [
+            "We'll sort out the problem tomorrow."
+        ]
+    },
+    {
+        "id": 58,
+        "word": "take up",
+        "translations": [
+            "zacząć (hobby)",
+            "podjąć się",
+            "objąć stanowisko",
+            "zajmować (miejsce)"
+        ],
+        "examples": [
+            "She took up painting last year.",
+            "The sofa takes up too much space."
+        ]
+    },
+    {
+        "id": 59,
+        "word": "turn down",
+        "translations": [
+            "odrzucić",
+            "odmówić",
+            "ściszyć"
+        ],
+        "examples": [
+            "He turned down the job offer.",
+            "Could you turn down the music?"
+        ]
+    }
+]
